@@ -14,3 +14,4 @@ The `transform_train.json` file have same format with NeRF-synthetic data.<br>
 Please refer [NeRF-synthetic data format](https://www.matthewtancik.com/nerf "nerf project page").<br>
 A few of images in `original_image_sample` dir are original images of mask images in `image_mask`.
 
+Sample data are created from "www.cemyuksel.com/research/hairmodels".
