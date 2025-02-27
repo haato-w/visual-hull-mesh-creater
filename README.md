@@ -11,4 +11,6 @@ You have to prepare two types of data.
 - The json file that have camera settings like `transform_train.json` file.
 
 The `transform_train.json` file have same format with NeRF-synthetic data.<br>
-Please refer [NeRF-synthetic data format](https://www.matthewtancik.com/nerf "nerf project page").
+Please refer [NeRF-synthetic data format](https://www.matthewtancik.com/nerf "nerf project page").<br>
+A few of images in `original_image_sample` dir are original images of mask images in `image_mask`.
+
