@@ -3,7 +3,7 @@
 This is a code that create visual hull mesh data (.obj) from mask images and camera settings related to each image.<br>
 The code will run on GPU because that is implemented with Pytorch.
 
-<video src="https://github.com/user-attachments/assets/cd854a82-cb35-442a-bc57-4125a995ee56" controls="true" loop="true" autoplay="true" muted width="600"></video>
+<video src="https://github.com/user-attachments/assets/cd854a82-cb35-442a-bc57-4125a995ee56" controls="true" loop="true" autoplay="true" muted width="400"></video>
 <!-- https://github.com/user-attachments/assets/cd854a82-cb35-442a-bc57-4125a995ee56 -->
 
 ## What you prepare
